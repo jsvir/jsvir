@@ -1,6 +1,10 @@
 ## Hi there 👋
+![Pr](https://komarev.com/ghpvc/?username=jsvir&color=blueviolet)
+- 🌱 I’m currently learning towards Ph.D. More details [here](https://jsvir.github.io/about)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsvir)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **jsvir/jsvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
